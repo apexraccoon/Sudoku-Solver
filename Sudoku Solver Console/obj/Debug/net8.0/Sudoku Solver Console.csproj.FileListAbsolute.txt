@@ -1,0 +1,14 @@
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\bin\Debug\net8.0\Sudoku Solver Console.exe
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\bin\Debug\net8.0\Sudoku Solver Console.deps.json
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\bin\Debug\net8.0\Sudoku Solver Console.runtimeconfig.json
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\bin\Debug\net8.0\Sudoku Solver Console.dll
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\bin\Debug\net8.0\Sudoku Solver Console.pdb
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.AssemblyInfoInputs.cache
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.AssemblyInfo.cs
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.dll
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\refint\Sudoku Solver Console.dll
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.pdb
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\Sudoku Solver Console.genruntimeconfig.cache
+C:\Users\omare\OneDrive\Desktop\Sudoku Solver\Sudoku Solver Console\Sudoku Solver Console\obj\Debug\net8.0\ref\Sudoku Solver Console.dll
