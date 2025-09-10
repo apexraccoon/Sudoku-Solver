@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|c:\\users\\omare\\onedrive\\desktop\\sudoku solver\\sudoku solver gui\\sudoku solver gui\\sudoku solver gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|solutionrelative:sudoku solver gui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|c:\\users\\omare\\onedrive\\desktop\\sudoku solver\\sudoku solver gui\\sudoku solver gui\\sudoku solver gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|solutionrelative:sudoku solver gui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|c:\\users\\omare\\onedrive\\desktop\\sudoku solver\\sudoku solver gui\\sudoku solver gui\\sudoku solver gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|solutionrelative:sudoku solver gui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|c:\\users\\omare\\onedrive\\desktop\\sudoku solver\\sudoku solver gui\\sudoku solver gui\\sudoku solver gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A426EEC7-07AD-41EE-A998-9FAE69F19C80}|Sudoku Solver Gui\\Sudoku Solver Gui.csproj|solutionrelative:sudoku solver gui\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Sudoku Solver Gui\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Sudoku Solver Gui\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAIwH8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-10T20:10:35.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Sudoku Solver Gui\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\MainWindow.xaml",
+              "RelativeToolTip": "Sudoku Solver Gui\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T14:03:27.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\App.xaml",
+              "RelativeDocumentMoniker": "Sudoku Solver Gui\\App.xaml",
+              "ToolTip": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\App.xaml",
+              "RelativeToolTip": "Sudoku Solver Gui\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-08T14:03:22.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Sudoku Solver Gui\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\omare\\OneDrive\\Desktop\\sudoku Solver\\Sudoku solver gui\\Sudoku Solver Gui\\Sudoku Solver Gui\\AssemblyInfo.cs",
+              "RelativeToolTip": "Sudoku Solver Gui\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T14:03:19.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

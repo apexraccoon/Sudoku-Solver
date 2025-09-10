@@ -1,0 +1,20 @@
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui_MarkupCompile.cache
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\bin\Debug\net8.0-windows\Sudoku Solver Gui.exe
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\bin\Debug\net8.0-windows\Sudoku Solver Gui.deps.json
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\bin\Debug\net8.0-windows\Sudoku Solver Gui.runtimeconfig.json
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\bin\Debug\net8.0-windows\Sudoku Solver Gui.dll
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\bin\Debug\net8.0-windows\Sudoku Solver Gui.pdb
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui_MarkupCompile.lref
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.g.resources
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.AssemblyInfoInputs.cache
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.AssemblyInfo.cs
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.csproj.CoreCompileInputs.cache
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.dll
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\refint\Sudoku Solver Gui.dll
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.pdb
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\Sudoku Solver Gui.genruntimeconfig.cache
+C:\Users\omare\OneDrive\Desktop\sudoku Solver\Sudoku solver gui\Sudoku Solver Gui\Sudoku Solver Gui\obj\Debug\net8.0-windows\ref\Sudoku Solver Gui.dll
